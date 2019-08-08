@@ -8,11 +8,11 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "build": "react-scripts build",
-    "coverage": "react-scripts test --env=jsdom --watchAll=false --coverage",
-    "eject": "react-scripts eject",
     "start": "react-scripts start",
-    "test": "react-scripts test --env=jsdom"
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "coverage": "react-scripts test --env=jsdom --watchAll=false --coverage",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
